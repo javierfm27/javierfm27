@@ -8,4 +8,9 @@
 
 ## Mis estadísticas 
 
-[![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=javierfm27)](https://github.com/javierfm27/github-readme-stats)
+<details>
+  <summary>Ver</summary>
+  
+  [![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=javierfm27)](https://github.com/javierfm27/github-readme-stats)
+
+</details>
